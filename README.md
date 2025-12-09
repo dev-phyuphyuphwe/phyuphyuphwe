@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Phyu Phyu Phwe
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning ReactJS and React Native
-- 💞️ I’m looking to collaborate on Web and Mobile Development
+- 🌱 I’m currently learning React.js and Next.js
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me ...
       
       Email: dev.phyuphyuphwe@gmail.com
-      LinkedIn: linkedin.com/in/phyu-phyu-phwe-1704a0236
+      LinkedIn: linkedin.com/in/phyu-phyu-phwe
 
 <!---
 dev-phyuphyuphwe/dev-phyuphyuphwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
